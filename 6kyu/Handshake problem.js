@@ -1,4 +1,4 @@
-https: //www.codewars.com/kata/5574835e3e404a0bed00001b/train/javascript
+// https: //www.codewars.com/kata/5574835e3e404a0bed00001b/train/javascript
 
     function getParticipants(handshakes) {
         //  if (handshakes === 0) 
